@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Finvite\u002F[slug]","\u002Finvite\u002F[slug]\u002Fopengraph-image","\u002Foccasions\u002F[slug]","\u002Foccasions\u002F[slug]\u002Fopengraph-image"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1A0A10"/>
+  <text x="600" y="280" text-anchor="middle" font-family="serif" font-size="48" fill="#C75070">Valentine Love Story</text>
+  <text x="600" y="350" text-anchor="middle" font-family="serif" font-size="24" fill="#D4B896">Premium 3D Experience</text>
+  <path d="M600 450 C575 425, 545 415, 545 390 C545 370, 560 360, 575 360 C585 360, 592 365, 600 375 C608 365, 615 360, 625 360 C640 360, 655 370, 655 390 C655 415, 625 425, 600 450Z" fill="#C75070" opacity="0.7"/>
+</svg>

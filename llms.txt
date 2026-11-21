@@ -1,0 +1,41 @@
+# Premium Invitation
+
+> Premium 3D interactive invitation websites for weddings, engagements, birthdays, and all Indian celebrations. Custom-designed digital invitations with 3D effects, RSVP, photo gallery, live countdown, and bilingual Hindi/English support. Based in India, serving clients worldwide. Website: https://premiuminvitation.com
+
+## Services & Pricing
+
+- [Pricing Plans](https://premiuminvitation.com/pricing): Three tiers — Essential (INR 2,999), Premium (INR 5,999), Grand (INR 9,999). Every invitation is custom-designed with 3D animations, countdown, dark/light themes, and WhatsApp sharing. Premium adds RSVP, gallery, and bilingual support. Grand adds love story, video, multi-event schedule, and QR code.
+
+## Live Demos
+
+- [Engagement Invitation Demo](https://premiuminvitation.com/example-engagement): Sacred Ganesh Vandana opening, 3D ring ceremony effects, live countdown, venue map, bilingual English & Hindi
+- [Wedding Invitation Demo](https://premiuminvitation.com/example-wedding): Midnight romance theme with starfield, jaimala animation, photo gallery, 8 sections, one-tap RSVP, bilingual
+- [Birthday Invitation Demo](https://premiuminvitation.com/example-birthday): 3D birthday cake with flickering candles, confetti burst, interactive balloon, RSVP
+- [Valentine Invitation Demo](https://premiuminvitation.com/example-valentine): Heart particles, self-typing love letter, photo memories, dual countdowns, 7 sections
+
+## Occasions We Serve
+
+- [All Occasions](https://premiuminvitation.com/occasions): Wedding, engagement, roka ceremony, haldi, mehndi, sangeet, reception, birthday, baby shower, naming ceremony, anniversary, Valentine's Day, retirement, housewarming, corporate events, and more
+
+## How to Order
+
+1. Message us on WhatsApp (+91 98187 88738) with your event details (names, date, venue, photos)
+2. We design your custom 3D invitation — most delivered within 24 hours
+3. You receive a unique URL to share with guests — works on every phone, tablet, and computer. No app downloads needed.
+
+## Key Features
+
+- Real-time 3D animations and particle effects (Three.js)
+- One-tap RSVP — no downloads, no sign-ups for guests
+- Live countdown timer to your event
+- Photo gallery with fullscreen previews
+- Bilingual support (Hindi & English)
+- Dark and light theme toggle
+- Custom QR code for physical invitation cards
+- Works on all devices and browsers
+
+## Contact
+
+- WhatsApp: +91 98187 88738
+- Website: https://premiuminvitation.com
+- Email: mohiitkaushiik@gmail.com
